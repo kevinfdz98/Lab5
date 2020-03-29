@@ -1,0 +1,68 @@
+div{
+    border : black; 
+
+}
+
+h1{
+    background-color: rgba(128, 128, 128, 0.397);
+    color: white; 
+    font-style: oblique;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.checkBttn{
+    background-color: green;
+    color :white;  
+    margin: 5px 10px;
+    padding: 3px;
+}
+
+.deleteBttn{
+    background-color:rgba(255, 17, 0, 0.384);
+    color :white;  
+    margin: 5px 10px;
+    padding: 3px;
+}
+.addBtn:hover{
+    color : lightblue; 
+    cursor : pointer; 
+    
+} 
+
+li{
+    margin: 10px 15px;
+    padding: 10px 10px;
+    border-style: solid;
+    border-color: gray;
+    list-style: none;
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-size: x-large;
+    color: darkblue;
+    font-style: italic;
+    align-items: end;
+}
+
+h4{
+    margin:5px;
+}
+
+.submit:hover{
+    color : lightblue; 
+    cursor : pointer; 
+    
+} 
+.submit{
+    background-color: rgba(128, 128, 128, 0.397);
+    color: white;
+    margin: 5px 10px;
+    padding: 5px 10px;
+}
+
+label{
+    font-style: italic;
+    font-size: x-large;
+}
